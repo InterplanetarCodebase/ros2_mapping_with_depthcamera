@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/depth_camera_mapping/depth_camera_mapping.egg-info
+writing ../build/depth_camera_mapping/depth_camera_mapping.egg-info/PKG-INFO
+writing dependency_links to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/dependency_links.txt
+writing entry points to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/entry_points.txt
+writing requirements to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/requires.txt
+writing top-level names to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/top_level.txt
+writing manifest file '../build/depth_camera_mapping/depth_camera_mapping.egg-info/SOURCES.txt'
+reading manifest file '../build/depth_camera_mapping/depth_camera_mapping.egg-info/SOURCES.txt'
+writing manifest file '../build/depth_camera_mapping/depth_camera_mapping.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build
+creating /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build/lib
+creating /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build/lib/depth_camera_mapping
+copying depth_camera_mapping/__init__.py -> /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build/lib/depth_camera_mapping
+running install
+running install_lib
+creating /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping
+copying /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build/lib/depth_camera_mapping/__init__.py -> /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping
+byte-compiling /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/share/ament_index
+creating /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/share/ament_index/resource_index
+creating /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/share/ament_index/resource_index/packages
+copying resource/depth_camera_mapping -> /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/share/ament_index/resource_index/packages
+copying package.xml -> /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/share/depth_camera_mapping
+running install_egg_info
+Copying ../build/depth_camera_mapping/depth_camera_mapping.egg-info to /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/install.log'

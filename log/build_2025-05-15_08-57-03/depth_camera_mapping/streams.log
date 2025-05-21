@@ -1,0 +1,18 @@
+[0.379s] Invoking command in '/home/abd/rosbot_ws/src/2d_mapping/depth_camera_mapping': PYTHONPATH=/home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/depth_camera_mapping build --build-base /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build install --record /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/install.log --single-version-externally-managed install_data
+[0.498s] running egg_info
+[0.499s] writing ../build/depth_camera_mapping/depth_camera_mapping.egg-info/PKG-INFO
+[0.499s] writing dependency_links to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/dependency_links.txt
+[0.499s] writing entry points to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/entry_points.txt
+[0.499s] writing requirements to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/requires.txt
+[0.499s] writing top-level names to ../build/depth_camera_mapping/depth_camera_mapping.egg-info/top_level.txt
+[0.500s] reading manifest file '../build/depth_camera_mapping/depth_camera_mapping.egg-info/SOURCES.txt'
+[0.507s] writing manifest file '../build/depth_camera_mapping/depth_camera_mapping.egg-info/SOURCES.txt'
+[0.507s] running build
+[0.507s] running install
+[0.507s] running install_data
+[0.508s] running install_egg_info
+[0.510s] removing '/home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping-0.0.0-py3.10.egg-info' (and everything under it)
+[0.510s] Copying ../build/depth_camera_mapping/depth_camera_mapping.egg-info to /home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages/depth_camera_mapping-0.0.0-py3.10.egg-info
+[0.510s] running install_scripts
+[0.521s] writing list of installed files to '/home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/install.log'
+[0.533s] Invoked command in '/home/abd/rosbot_ws/src/2d_mapping/depth_camera_mapping' returned '0': PYTHONPATH=/home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abd/rosbot_ws/src/2d_mapping/install/depth_camera_mapping/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/depth_camera_mapping build --build-base /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/build install --record /home/abd/rosbot_ws/src/2d_mapping/build/depth_camera_mapping/install.log --single-version-externally-managed install_data
